@@ -83,7 +83,7 @@ curl http://localhost:5000/health
 - избегается сценарий “лист очищен, запись не дошла”.
 
 Тестовая таблица:
-- https://docs.google.com/spreadsheets/d/1FpnT1__xyJhsDhnTYjdWCeLqYYUQ4m33rxHnONiMo4s/edit?usp=sharing
+- https://docs.google.com/spreadsheets/d/10VRG3Hcrjjgtu0iIVr_2kv15Q-YEBdCwb9dgR83-N5g/edit?usp=sharing
 
 ## Проверка работы
 Минимальный сценарий:
